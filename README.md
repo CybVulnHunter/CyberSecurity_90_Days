@@ -2,7 +2,7 @@
 
 👨‍💻 Whether you're just starting out or brushing up your skills, this roadmap helps you dive into the core areas of cybersecurity in just 90 days!
 
-![Cybersecurity Banner]([Screenshot 2025-04-10 091853](https://github.com/user-attachments/assets/44779829-fd4a-4d21-bd87-cd10f7cc46aa)
+![Cybersecurity Banner](https://github.com/user-attachments/assets/44779829-fd4a-4d21-bd87-cd10f7cc46aa)
 
 
 ## 📅 Day 1-7: Network+
