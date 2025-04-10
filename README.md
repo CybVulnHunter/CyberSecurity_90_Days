@@ -2,6 +2,8 @@
 
 👨‍💻 Whether you're just starting out or brushing up your skills, this roadmap helps you dive into the core areas of cybersecurity in just 90 days!
 
+![Cybersecurity Banner](https://pixabay.com/illustrations/cyber-security-internet-security-1805632/)
+
 ## 📅 Day 1-7: Network+
 
 🎥 **Professor Messer’s N10-009 Playlist**  
