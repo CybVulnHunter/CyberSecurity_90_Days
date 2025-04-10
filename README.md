@@ -2,16 +2,12 @@
 
 👨‍💻 Whether you're just starting out or brushing up your skills, this roadmap helps you dive into the core areas of cybersecurity in just 90 days!
 
----
-
 ## 📅 Day 1-7: Network+
 
 🎥 **Professor Messer’s N10-009 Playlist**  
 🔗 Link: https://youtube.com/playlist?list=PLG49S3nxzAnl_tQe3kvnmeMid0mjF8Le8
 
 📝 Complete related practice questions and exercises.
-
----
 
 ## 📅 Day 8-14: Security+
 
@@ -23,8 +19,6 @@
 
 📝 Complete related practice questions and exercises.
 
----
-
 ## 📅 Day 15-28: Linux
 
 📘 **Linux Journey Tutorials**  
@@ -32,8 +26,6 @@
 
 📘 **Cisco NetAcad - Linux Unhatched**  
 🔗 Link: https://www.netacad.com/courses/linux-unhatched
-
----
 
 ## 📅 Day 29-42: Python
 
@@ -58,8 +50,6 @@
 🎥 **The Cyber Mentor Python Course**  
 🔗 Link: https://www.youtube.com/watch?v=egg-GoT5iVk
 
----
-
 ## 📅 Day 43-56: Traffic Analysis
 
 📘 **Wireshark University Course**  
@@ -80,8 +70,6 @@
 🎥 **Suricata IDS/IPS System Tutorial**  
 🔗 Link: https://www.youtube.com/watch?v=S0-vsjhPDN0
 
----
-
 ## 📅 Day 57-63: Git
 
 📘 **Codecademy - Learn Git**  
@@ -93,8 +81,6 @@
 📘 **Try Git**  
 🔗 Link: https://try.github.io
 
----
-
 ## 📅 Day 64-70: ELK Stack
 
 📘 **Complete ELK Stack Guide - Logz.io**  
@@ -102,8 +88,6 @@
 
 📘 **Elastic Stack Tutorials - Elastic**  
 🔗 Link: https://www.elastic.co/elastic-stack/features
-
----
 
 ## 📅 Day 71-77: Cloud (Pick One ☁️)
 
@@ -121,8 +105,6 @@
 📘 **GCP Community**  
 🔗 Link: https://cloud.google.com/community/
 
----
-
 ### 🟡 Amazon Web Services (AWS)
 
 📘 **Getting Started - AWS**  
@@ -131,14 +113,10 @@
 📘 **AWS Tutorials**  
 🔗 Link: https://aws.amazon.com/tutorials/
 
----
-
 ### 🔵 Microsoft Azure
 
 📘 **Azure Fundamentals**  
 🔗 Link: https://learn.microsoft.com/en-us/training/azure/
-
----
 
 ## 📅 Day 85-90: Ethical Hacking
 
@@ -153,8 +131,6 @@
 
 🎥 **Ethical Hacking Part 2 - The Cyber Mentor**  
 🔗 Link: https://www.youtube.com/watch?v=sH4JCwjybGs
-
----
 
 ## 📅 Day 91-92: Build a One-Page Resume
 
@@ -177,7 +153,5 @@
 - 🌍 **Real-World Applications** – Share case studies or examples  
 - 💬 **Community Support** – Help others in discussions  
 - 🧑‍🏫 **Mentoring** – Offer tips, advice, or host sessions  
-
----
 
 Let’s build cybersecurity skills together! 💪🌐
